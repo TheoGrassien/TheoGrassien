@@ -16,5 +16,5 @@ Voici une liste (non-exhaustive) des langages et outils que j'utilise : HTML, CS
 - 👔 [Linkedin](https://www.linkedin.com/in/theo-grassien/)
   <br>
 
-> \_« Il ne faut pas attendre que ce soit parfait pour commencer quelque chose de bien. »<br>
+> « Il ne faut pas attendre que ce soit parfait pour commencer quelque chose de bien. »<br>
 > Abbé Pierre, fondateur d’Emmaüs à l’âge de 35 ans.
