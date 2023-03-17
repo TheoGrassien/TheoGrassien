@@ -1,7 +1,5 @@
 # Hi, I'm Théo 🤙 🇫🇷
 
----
-
 **Je suis un développeur web français et passionné !**
 
 Ambitieux, déterminé et perfectionniste, j’aime être dans l’action, créer, construire de nouvelles choses. Quand je code, je ne compte pas mes efforts et ne vois pas le temps passer.
