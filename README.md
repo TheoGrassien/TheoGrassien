@@ -4,7 +4,7 @@
 
 Ambitieux, déterminé et perfectionniste, j’aime être dans l’action, créer, construire de nouvelles choses. Quand je code, je ne compte pas mes efforts et ne vois pas le temps passer.
 
-Voici une liste (non-exhaustive) des langages et outils que j'utilise : HTML, CSS, Sass, JavaScript, React, Next.js, PHP, MySQL, Strapi, Tailwind, Bootstrap, Figma, Photoshop, Premiere Pro, After Effects.
+Voici une liste (non-exhaustive) des langages et outils que j'utilise : HTML, CSS, Sass, JavaScript, React, React Native, Next.js, PHP, MySQL, Strapi, Tailwind, Bootstrap, Figma, Photoshop, Premiere Pro, After Effects.
 <br>
 
 ### 👋 Contactez-moi
